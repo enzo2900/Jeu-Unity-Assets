@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d1e2db3b44b3b4740ae161af103832d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InteractButton: {fileID: 6745747626581941520, guid: 699d84a0441c5c74cb426c0041783ce0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
